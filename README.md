@@ -1,56 +1,66 @@
-# Halo, saya KUSNADI YA 👋
+<div align="center">
 
-Saya adalah student developer dari Indonesia yang sedang belajar dan membangun proyek di bidang web development, otomasi, AI, dan keamanan siber secara legal.
+# 👋 KUSNADI YA
 
-Saat ini saya berfokus mengembangkan **MrKarir AI Indonesia**, sebuah portal informasi lowongan kerja yang dirancang agar pencarian lowongan menjadi lebih mudah, cepat, dan aman.
+### 💬 Admin Chat · 📊 Data Entry · 🛍️ Admin Toko Online
 
-## 🚀 Proyek Utama
+**Teliti dalam mengelola data, jelas dalam komunikasi tertulis, dan siap mendukung operasional toko online.**
 
-### MrKarir AI Indonesia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KUSNADI%20YA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusnadiya)
+[![GitHub](https://img.shields.io/badge/GitHub-Mrkus--Dev-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrkus-Dev)
 
-**Status:** MVP — masih dalam tahap pengembangan aktif.
+</div>
 
-MrKarir AI membantu pengguna mencari dan membaca informasi lowongan kerja melalui tampilan web yang sederhana. Sistemnya sedang dikembangkan agar dapat mengelola data lowongan, pencarian, filter, API, serta integrasi notifikasi.
+## 👤 Tentang Saya
 
-Fitur yang telah dikerjakan:
+Saya berfokus pada pekerjaan administrasi yang membutuhkan ketelitian, kerapian data, dan komunikasi tertulis yang jelas. Saya tertarik pada posisi **admin chat, data entry, dan admin toko online**. Pengalaman saya sebagai operator di Shopee Express Bekasi DC membantu saya terbiasa mengikuti alur kerja dan memeriksa pencatatan dengan cermat.
 
-- Daftar dan detail lowongan kerja
-- Pencarian, filter, dan pagination
-- Penyembunyian otomatis untuk lowongan kedaluwarsa
-- API dengan pemeriksaan API key
-- Rate limiting dengan respons HTTP 429
-- Prepared statements untuk membantu mencegah SQL injection
-- Pengujian aplikasi: **134 PASS, 0 FAIL, 5 SKIP**
-- Dokumentasi dasar proyek
+## 💼 Pengalaman Kerja
 
-Rencana pengembangan:
+### Operator · Shopee Express Bekasi DC
 
-- Integrasi sumber lowongan resmi
-- Notifikasi lowongan melalui Telegram
-- Penyempurnaan keamanan dan antarmuka
-- Deployment produksi di [mrkarirai.web.id](https://mrkarirai.web.id)
+- Melakukan pemindaian paket dalam kegiatan operasional harian.
+- Menangani paket pada proses inbound dan outbound.
+- Membantu memastikan paket tercatat dan diproses sesuai alur kerja.
+- Menjaga ketelitian dan keteraturan saat menangani paket.
 
-> MrKarir AI belum dirilis sebagai layanan produksi. Detail fitur dapat berubah selama proses pengembangan.
+## 🧩 Kemampuan
 
-## 🧰 Teknologi yang Sedang Saya Pelajari
+| Bidang | Hal yang dapat saya kerjakan |
+| :--- | :--- |
+| 💬 Admin chat | Menyusun balasan pelanggan yang jelas dan sopan |
+| 📊 Data entry | Memasukkan, memeriksa, dan merapikan data |
+| 🛍️ Administrasi toko | Menyiapkan judul dan deskripsi produk |
+| ✍️ Konten singkat | Membuat caption dan teks promosi |
+| 📄 Dokumen | Mengetik dan merapikan dokumen |
 
-`PHP` · `Python` · `JavaScript` · `HTML` · `CSS` · `SQLite` · `Git` · `Bash` · `Termux` · `Cloudflare`
+## 🗂️ Contoh Pekerjaan
 
-## 🎯 Fokus Saat Ini
+> **Contoh latihan mandiri**, bukan hasil pekerjaan untuk klien.
 
-- Menyelesaikan fondasi MVP MrKarir AI
-- Menambah portofolio proyek yang dapat diperiksa publik
-- Meningkatkan kemampuan backend, API, pengujian, dan keamanan web
-- Belajar membangun software secara bertahap dan terdokumentasi
+### 💬 Balasan pelanggan
 
-## 📫 Terhubung dengan Saya
+> Terima kasih sudah menghubungi kami. Mohon kirimkan nama produk atau nomor pesanan agar saya dapat membantu memeriksa informasi yang Anda butuhkan.
 
-- Website: [mrkarirai.web.id](https://mrkarirai.web.id)
-- LinkedIn: [KUSNADI YA](https://www.linkedin.com/in/kusnadi-ya-9276a1317)
-- Instagram: [@m_rkus1](https://www.instagram.com/m_rkus1/)
-- Telegram: [@null_mrk](https://t.me/null_mrk)
-- Bot Telegram: [@MrKarirAIBot](https://t.me/MrKarirAIBot)
+### 🛍️ Deskripsi produk
 
----
+> Template administrasi siap pakai untuk membantu mencatat dan merapikan data pekerjaan harian. Formatnya sederhana, mudah disesuaikan, dan cocok untuk kebutuhan usaha kecil.
 
-Terima kasih sudah mengunjungi profil saya. Saya terbuka untuk belajar, berdiskusi, dan mengerjakan proyek sesuai kemampuan saya.
+### 📊 Pengelolaan data
+
+Menyusun tabel produk berisi **nama, kategori, harga, stok, dan status** agar informasi mudah diperiksa serta diperbarui.
+
+## ✅ Cara Saya Bekerja
+
+Saya mengutamakan instruksi yang jelas, pencatatan yang rapi, dan pemeriksaan ulang sebelum menyerahkan pekerjaan. Dalam komunikasi tertulis, saya berusaha menyampaikan informasi secara sopan, tepat, dan mudah dipahami.
+
+## 💻 Proyek dan Minat Tambahan
+
+Saya juga belajar pengembangan web, otomasi, dan keamanan aplikasi. Proyek yang sedang saya kembangkan adalah **[MrKarir AI](https://mrkarirai.web.id)**, portal informasi lowongan kerja yang masih dalam tahap pengembangan. Kegiatan ini membantu saya melatih keterampilan menyusun informasi dan dokumentasi digital.
+
+## 📫 Kontak
+
+Saya terbuka untuk kesempatan kerja di bidang **admin chat, data entry, dan administrasi toko online**.
+
+- 🔗 [LinkedIn: KUSNADI YA](https://www.linkedin.com/in/kusnadiya)
+- 💻 [GitHub: Mrkus-Dev](https://github.com/Mrkus-Dev)
